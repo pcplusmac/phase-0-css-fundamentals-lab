@@ -11,8 +11,13 @@ figure {
   text-align: center;
   font-size: x-small;
 }
-figcaption {
-
+section#featured-property p {
+  width: 800px;
+  /* set the text paragraph in the center using it margin */
+  margin: auto;
+  /* add the padding space arroung the text */
+  padding: 5px;
+  
 }
 
 nav a {
