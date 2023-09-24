@@ -9,6 +9,10 @@ header {
 
 figure {
   text-align: center;
+  font-size: x-small;
+}
+figcaption {
+
 }
 
 nav a {
