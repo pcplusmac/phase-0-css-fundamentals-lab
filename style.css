@@ -24,3 +24,12 @@ nav a {
   padding: 5px,10px,5px,10px;
   background-color: grey;
 }
+
+/* horizontalize the details section */
+section#details div {
+  float: left;
+  width: 25%;
+  text-align: center;
+  background-color: rgb(8, 8, 9);
+  color: brown;
+}
