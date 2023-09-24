@@ -30,14 +30,14 @@ section#details div {
   float: left;
   width: 25%;
   text-align: center;
-  background-color: rgb(8, 8, 9);
-  color: brown;
+  background-color: red;
+  color: black;
 }
 
 /* set pseudo elements */
 a:link {
-  color: white;
+  color: black;
 }
 a:visited {
-  color: red;
+  color: white;
 }
