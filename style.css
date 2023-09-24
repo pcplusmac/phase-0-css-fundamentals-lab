@@ -33,3 +33,11 @@ section#details div {
   background-color: rgb(8, 8, 9);
   color: brown;
 }
+
+/* set pseudo elements */
+a:link {
+  color: white;
+}
+a:visited {
+  color: red;
+}
